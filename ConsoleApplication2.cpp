@@ -1,11 +1,11 @@
-﻿// ConsoleApplication2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+// ConsoleApplication2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <iostream>
 #include <cmath>
 using namespace std;
 int main()
-{
+{//zxc
     cout << "Hello World!\n";
     for (int i = 1000; i > 0; i = i - 7)
         cout << "zxc    " << i - 7 << endl;
